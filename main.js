@@ -1,1 +1,1 @@
-// Fichier JavaScript de test
+alert("bonjour c'est Alida");
